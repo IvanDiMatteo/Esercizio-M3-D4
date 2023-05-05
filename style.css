@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    border: 0;
+    border-radius: 0;
+    outline: 1px solid #9f9f9f;
+    outline-offset: -12px;
+}
+
+.card img {
+    padding-top: 11px;
+}
+
+.mx-2 p:first-child {
+    font-weight: bold;
+}
